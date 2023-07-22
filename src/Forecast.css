@@ -1,0 +1,10 @@
+.forecast{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        list-style-type: style;
+        padding: 0;
+        margin: 0;
+      }
+      
+      

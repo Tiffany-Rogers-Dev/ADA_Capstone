@@ -1,0 +1,105 @@
+{
+"data":{
+  "Virgin": {
+    "ship": {
+      "Sea Voyager": {
+              "itinerary": [
+                  {"date":"2023-02-20",
+                    "location": "Miami",
+                    "departureTime": "3:00 PM"},
+                  {"date":"2023-02-21",
+                    "location": "Nassau",
+                    "arrivalTime": "8:00 AM",
+                    "departureTime": "4:00 PM"},
+                  {"date":"2023-02-22",
+                    "location": "Half Moon Cay",
+                    "arrivalTime": "9:00 AM",
+                    "departureTime": "5:00 PM"},
+                  {"date":"2023-02-23",
+                    "location": "George Town",
+                    "arrivalTime": "11:00 AM",
+                    "departureTime": "7:00 PM"},
+                  {"date":"2023-02-24",
+                    "location": "Cozumel",
+                    "arrivalTime": "12:00 PM",
+                    "departureTime": "8:00 PM"},
+                  {"date":"2023-02-25", 
+                    "location": "Miami",
+                    "arrivalTime": "10:00 AM"}
+              ]
+            } 
+          }
+        }, 
+        
+      
+              
+    "Carnival": { 
+      "ship": {       
+        "Breeze": {
+              "itinerary": [
+                {"date":"2023-02-20",
+                  "location": "Galveston",
+                  "departureTime": "3:00 PM"},
+                {"date":"2023-02-21",
+                  "location": "Progreso",
+                  "arrivalTime": "10:00 AM",
+                  "departureTime": "6:00 PM"},
+                {"date":"2023-02-22", 
+                  "location": "Cozumel",
+                  "arrivalTime": "8:00 AM",
+                  "departureTime": "4:00 PM"},
+                {"date":"2023-02-23", 
+                  "location": "Belize City",
+                  "arrivalTime": "11:00 AM",
+                  "departureTime": "7:00 PM"},
+                {"date":"2023-02-24", 
+                  "location": "Cancun",
+                  "arrivalTime": "12:00 PM",
+                  "departureTime": "8:00 PM"},
+                {"date":"2023-02-25",
+                  "location": "Galveston",
+                  "arrivalTime": "8:00 AM"}
+              ]
+            }
+          }
+        },
+                   
+    "Disney": {
+      "ship": {
+        "Dream": {
+              "itinerary": [
+                {"date":"2023-02-23",
+                  "location": "Miami",
+                  "departureTime": "3:00 PM"},
+                {"date":"2023-02-24", 
+                  "location": "Nassau",
+                  "arrivalTime": "8:00 AM",
+                  "departureTime": "5:00 PM"},
+                {"date":"2023-02-25",
+                  "location": "Disney Castaway Cay",
+                  "arrivalTime": "8:30 AM",
+                  "departureTime": "5:00 PM"},
+                {"date":"2023-02-26", 
+                  "location": "At Sea"},
+                {"date":"2023-02-27", 
+                  "location": "Miami",
+                  "arrivalTime": "7:00 AM"}
+                ]
+              } 
+            } 
+          } 
+        }
+      }  
+
+    
+         
+  
+  
+
+  
+
+
+
+
+  
+

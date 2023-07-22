@@ -1,0 +1,12 @@
+.Activities{
+  background-color: lightblue;
+  width: 500px;
+  height: 175px;
+  overflow: scroll;
+  font-weight: bolder;
+  opacity: 0.7;
+  position: absolute;
+     top: 640px;
+     right: 875px;
+  
+}

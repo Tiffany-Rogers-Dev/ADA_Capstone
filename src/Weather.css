@@ -1,0 +1,23 @@
+.weather_button {
+    background-color: darkblue;
+    opacity: 0.8;
+    color:white;
+    border-radius: 5px;
+    font-size: 22px;
+    margin-bottom: 40px;
+    position: absolute;
+     top: 680px;
+     right: 76px;
+}
+
+.weather{
+    display:flexbox;
+    align-items: right;
+    justify-content: space-between;
+    font-size: 35px;
+    font-weight: bolder;;
+    position: absolute;
+     top: 735px;
+     right: 55px;
+}
+
